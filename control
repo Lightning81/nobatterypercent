@@ -1,0 +1,9 @@
+Package: com.Korriban.nobatterypercent
+Name: NoBatteryPercent
+Depends: firmware (>= 10), mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Removes battery icon in the status bar
+Maintainer: BabyPaste
+Author: Whiskey1
+Section: Tweaks
